@@ -1,6 +1,0 @@
-pandas==1.5.2
-streamlit==1.48.0
-random
-time
-pickle
-scikit-learn==1.5.1
