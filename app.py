@@ -78,4 +78,4 @@ else:
 
 
 
-st.markdown('Designed by: **Narender**')
+s.markdown('Designed by: **Narender**')
