@@ -8,7 +8,7 @@ import pickle
 col = ['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup']
 
 s.title('California Housing Price Prediction')
-s.image('https://img.onmanorama.com/content/dam/mm/en/lifestyle/decor/images/2023/6/1/house-middleclass.jpg')
+s.image('https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-9c44-622f-b6d8-e22873aabedc/raw?se=2025-08-23T06%3A48%3A05Z&sp=r&sv=2024-08-04&sr=b&scid=1b8221be-5972-57a2-b0b7-bc4eadd9a778&skoid=38550de5-1fab-49d1-9ebb-83af5557cc43&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-22T23%3A03%3A36Z&ske=2025-08-23T23%3A03%3A36Z&sks=b&skv=2024-08-04&sig=FXSsKe%2B2cp0HC7Ldw7VOx%2Bxst9y3ZqFH6k1yc%2BkNoDY%3D')
 
 s.header('Model of housing prices to predict median house values in California.',divider=True)
 
