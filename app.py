@@ -17,7 +17,7 @@ s.header('Model of housing prices to predict median house values in California.'
 
 s.sidebar.title('Select House Features🏠')
 
-s.sidebar.image('https://images.pexels.com/photos/462358/pexels-photo-462358.jpeg?cs=srgb&dl=architectural-design-architecture-blue-sky-462358.jpg&fm=jpg')
+s.sidebar.image('https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-2554-622f-b07a-199cf60203f8/raw?se=2025-08-23T07%3A05%3A58Z&sp=r&sv=2024-08-04&sr=b&scid=a5e29400-df8c-5e35-b894-4e121ec2d4fa&skoid=38550de5-1fab-49d1-9ebb-83af5557cc43&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-22T23%3A03%3A40Z&ske=2025-08-23T23%3A03%3A40Z&sks=b&skv=2024-08-04&sig=TTxPvpHA2ud61W0JTxXWDdUxz8GhqNsnm4pDx2DuUMM%3D')
 
 # read_data
 temp_df = pd.read_csv('california.csv')
